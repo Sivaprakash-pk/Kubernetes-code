@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: java-web-app
-        image: sivaprakash1998/demo-java:v1
+        image: sivaprakash1998/replaceImageTag
         ports:
         - containerPort: 8080
