@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: java-web-app
-        image: sivaprakash1998/demo:v3
+        image: sivaprakash1998/demo-java:v3
         ports:
         - containerPort: 8080
